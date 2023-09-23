@@ -16,15 +16,15 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/second.png";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "web background";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a Bsc. CSIT student studying at Patan Multiple Campus";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about ensuring top-notch software quality, I am a dedicated individual on a journey to become a skilled Quality Assurance (QA) professional. With a strong belief in the power of QA to deliver exceptional user experiences, I am committed to learning and implementing industry best practices.";
 
 const About = () => {
   return (
