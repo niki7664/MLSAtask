@@ -42,6 +42,19 @@ const projectList = [
       "Simple Calculator using HTML,CSS and JS",
     url: "https://niki7664.github.io/calculator/",
   },
+  {
+    title: "Simple Webite",
+    description:
+      "Webite using HTML and CSS",
+    url: "https://niki7664.github.io/Simple-website/",
+  },
+  {
+    title: "Portfolio Site",
+    description:
+      "Coming Soon",
+    url: "",
+  },
+  
 ];
 
 const Portfolio = () => {
